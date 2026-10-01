@@ -1,6 +1,6 @@
 # Spark-Skills
 
-Skills d'agent pour [TeamSpark](https://gentle-dune-0c9b64b03.2.azurestaticapps.net/).
+Skills d'agent pour TeamSpark.
 
 ## spark-gen : mode opératoire
 
@@ -44,3 +44,4 @@ Le skill affiche le contenu de `project.md` et les champs omis faute d'informati
 - **La commande `/spark-gen` n'apparaît pas** : rechargez les skills ou redémarrez VS Code.
 - **La vidéo n'a pas pu être générée** : le skill l'indique et livre la fiche sans vidéo, avec l'erreur rencontrée. Envoyez quand même le dossier.
 - **Fichier trop gros** : la vidéo est limitée à 20 Mo, et le skill la réencode si nécessaire.
+
